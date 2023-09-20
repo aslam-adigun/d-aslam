@@ -1,16 +1,18 @@
 import React from 'react'
-import { BsLinkedin } from 'react-icons/bs'
-import { ImBehance2 } from 'react-icons/im'
-import { FaGithubSquare } from 'react-icons/fa'
-import { FaDribbbleSquare } from 'react-icons/fa'
+import { FaLinkedinIn } from 'react-icons/fa'
+import { FaBehance } from 'react-icons/fa'
+import { BsGithub } from 'react-icons/bs'
+import { FaDribbble } from 'react-icons/fa'
+import { FiFigma } from 'react-icons/fi'
 
 const HeaderSocials = () => {
     return (
         <div className='header__socials'>
-            <a href="https://www.linkedin.com/in/d-aslam" target="_blank"><BsLinkedin /></a>
-            <a href="https://www.behance.net/dhikrulaslam" target="_blank"><ImBehance2 /></a>
-            <a href="https://www.github.com/aslam-adigun" target="_blank"><FaGithubSquare /></a>
-            <a href="https://www.dribbble.com/DAslam" target="_blank"><FaDribbbleSquare /></a>
+            <a href="https://www.linkedin.com/in/d-aslam" target="_blank"><FaLinkedinIn /></a>
+            <a href="https://www.behance.net/dhikrulaslam" target="_blank"><FaBehance /></a>
+            <a href="https://www.github.com/aslam-adigun" target="_blank"><BsGithub /></a>
+            <a href="https://www.dribbble.com/DAslam" target="_blank"><FaDribbble /></a>
+            <a href="https://www.figma.com/@d_aslam" target="_blank"><FiFigma /></a>
         </div>
     )
 }
