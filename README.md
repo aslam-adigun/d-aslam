@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# D. Aslam
+A personal portfolio website created with React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+### Team Members
+Aslam Dhikrullahi (Solo Project)
+### Description
+I, Aslam Dhikrullahi, with a product design background, aim to create a professional portfolio website to showcase my design work and skills. I will use the tools and skills obtained during the ALX-SE programme to create the portfolio website.
 
-## Available Scripts
+## Technologies Used
+### React Framework
+The website was developed using the React library, allowing for efficient and modular front-end development.
+### HTML & CSS
+Essential languages for structuring and styling the website's content.
+### JavaScript
+To add interactivity and dynamic elements to the website.
 
-In the project directory, you can run:
+## The Journey
+### Development
+Over the past week, I have worked on creating several components for my React App. All I can say is, I enjoyed it, I got the feeling of completing a task you’ve pushed off for a long time.
+### Successes
+Before now, responsive design was always a thorn on my side, I would perfect the design of an App on one device and forget that other devices exists. On this project, I had been able to devise a good way to make my App responsive (had to refer back to some older alx lessons and YouTube).
+### Challenges
+The main challenge as stated earlier was the timeframe, However I overcame this due to the fact that I had the deadline staring me in the face.
+### Areas for Improvement
+I’d say I could improve in some areas, for example, using global css variables. Another thing is I had to make a lot of research during the project, but I believe most SE do this, the aim is to be one of those who don’t do it.
+### Lessons Learnt
+I did pick up a few things along the way, for example, how you can populate your elements using a declared data array. That’s just one of many things.
+### Next steps
+Well, my next steps would be to populate the website with real projects, right now I just populated the projects, testimonials and other sections with some generic data. After that, I will then host the site with my personal domain name.
 
-### `npm start`
+## Screenshots
+<img src=".src/assets/screenshot-1">
+<img src="D. ASLAM DES&DEV.png">
+<img src="D. ASLAM DES&DEV.png">
+<img src="D. ASLAM DES&DEV.png">
+<img src="D. ASLAM DES&DEV.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Conclusion
+Well, it was a good experience, first because, I love the fact that I could use ALX to push me to do a task I’ve been procrastinating about.
+Another thing was I learnt several new things and how to do things in react, how to create global styling for your components, how to automatically create divs just by typing a classname, among others.
+Again, it’s a very good experience, it’s something I’d love to do over again.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author
+Aslam Dhikrullahi [`aslam-adigun`](https://github.com/aslam-adigun)
