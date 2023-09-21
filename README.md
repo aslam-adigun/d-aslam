@@ -30,7 +30,7 @@ I did pick up a few things along the way, for example, how you can populate your
 Well, my next steps would be to populate the website with real projects, right now I just populated the projects, testimonials and other sections with some generic data. After that, I will then host the site with my personal domain name.
 
 ## Screenshots
-<img src=".src/assets/screenshot-1">
+<img src="src/assets/screenshot-1.png">
 <img src="D. ASLAM DES&DEV.png">
 <img src="D. ASLAM DES&DEV.png">
 <img src="D. ASLAM DES&DEV.png">
