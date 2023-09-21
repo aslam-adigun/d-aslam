@@ -1,11 +1,15 @@
 # D. Aslam
 A personal portfolio website created with React.
 
+
+
 ## Overview
 ### Team Members
 Aslam Dhikrullahi (Solo Project)
 ### Description
 I, Aslam Dhikrullahi, with a product design background, aim to create a professional portfolio website to showcase my design work and skills. I will use the tools and skills obtained during the ALX-SE programme to create the portfolio website.
+
+
 
 ## Technologies Used
 ### React Framework
@@ -14,6 +18,8 @@ The website was developed using the React library, allowing for efficient and mo
 Essential languages for structuring and styling the website's content.
 ### JavaScript
 To add interactivity and dynamic elements to the website.
+
+
 
 ## The Journey
 ### Development
@@ -29,6 +35,8 @@ I did pick up a few things along the way, for example, how you can populate your
 ### Next steps
 Well, my next steps would be to populate the website with real projects, right now I just populated the projects, testimonials and other sections with some generic data. After that, I will then host the site with my personal domain name.
 
+
+
 ## Screenshots
 <img src="src/assets/screenshot-1.png">
 <img src="src/assets/screenshot-1-tab.png">
@@ -41,10 +49,14 @@ Well, my next steps would be to populate the website with real projects, right n
 <img src="src/assets/screenshot-7.png">
 <img src="src/assets/screenshot-8.png">
 
+
+
 ## Conclusion
 Well, it was a good experience, first because, I love the fact that I could use ALX to push me to do a task I’ve been procrastinating about.
 Another thing was I learnt several new things and how to do things in react, how to create global styling for your components, how to automatically create divs just by typing a classname, among others.
 Again, it’s a very good experience, it’s something I’d love to do over again.
+
+
 
 ## Author
 Aslam Dhikrullahi [`aslam-adigun`](https://github.com/aslam-adigun)
