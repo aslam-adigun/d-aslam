@@ -31,10 +31,15 @@ Well, my next steps would be to populate the website with real projects, right n
 
 ## Screenshots
 <img src="src/assets/screenshot-1.png">
-<img src="D. ASLAM DES&DEV.png">
-<img src="D. ASLAM DES&DEV.png">
-<img src="D. ASLAM DES&DEV.png">
-<img src="D. ASLAM DES&DEV.png">
+<img src="src/assets/screenshot-1-tab.png">
+<img src="src/assets/screenshot-1-mobile.png">
+<img src="src/assets/screenshot-2.png">
+<img src="src/assets/screenshot-3.png">
+<img src="src/assets/screenshot-4.png">
+<img src="src/assets/screenshot-5.png">
+<img src="src/assets/screenshot-6.png">
+<img src="src/assets/screenshot-7.png">
+<img src="src/assets/screenshot-8.png">
 
 ## Conclusion
 Well, it was a good experience, first because, I love the fact that I could use ALX to push me to do a task I’ve been procrastinating about.
