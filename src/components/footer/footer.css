@@ -49,7 +49,7 @@ footer a {
 .footer__socials a:hover {
     background: transparent;
     color: var(--color-secondary);
-    border-color: var(--color-bg);
+    border-color: var(--color-primary-variant2);
 }
 
 .footer__copyright {
