@@ -93,8 +93,14 @@ section > h2 {
 
 .text-light {
     color: var(--color-primary);
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 300;
+}
+
+.text-orange {
+    color: var(--color-secondary);
+    font-size: 1rem;
+    font-weight: 400;
 }
 
 a {
