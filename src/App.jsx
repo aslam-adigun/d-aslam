@@ -3,8 +3,8 @@ import Header from './components/header/Header.jsx'
 import Nav from './components/nav/Nav.jsx'
 import About from './components/about/About.jsx'
 import Skills from './components/skills/Skills.jsx'
-import Experience from './components/experience/Experience.jsx'
-import Services from './components/services/Services.jsx'
+// import Experience from './components/experience/Experience.jsx'
+// import Services from './components/services/Services.jsx'
 import Portfolio from './components/portfolio/Portfolio.jsx'
 import Testimonials from './components/testimonials/Testimonials.jsx'
 import Contact from './components/contacts/Contact.jsx'
@@ -18,8 +18,8 @@ const App = () => {
     <Portfolio />
     <About />
     <Skills />
-    <Experience />
-    <Services />    
+    {/* <Experience /> */}
+    {/* <Services />     */}
     <Testimonials />
     <Contact />
     <Footer />

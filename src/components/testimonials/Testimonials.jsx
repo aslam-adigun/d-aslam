@@ -18,23 +18,23 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVRT1,
-    name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem saepe nostrum vel? Quaerat architecto at modi rem repudiandae voluptatibus quas, assumenda, enim facilis earum hic ducimus! Sed facere id reprehenderit.'
+    name: 'Maureen Oguche',
+    review: "Aslam's exceptional expertise in our branding project resulted in outstanding outcomes. His creativity, professionalism, and deep understanding of our brand surpassed expectations. From embracing our vision to transparent communication, Aslam's transformative touch earned rave reviews. I highly recommend Aslam for his remarkable work."
   },
   {
     avatar: AVRT2,
-    name: 'Shatta Wale',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem saepe nostrum vel? Quaerat architecto at modi rem repudiandae voluptatibus quas, assumenda, enim facilis earum hic ducimus! Sed facere id reprehenderit.'
+    name: 'Michael Anderson',
+    review: "Aslam's creativity and precision took our brand to new heights. From concept to execution, his professionalism and innovation were outstanding. Our brand now stands out, and we couldn't be happier."
   },
   {
     avatar: AVRT3,
-    name: 'Kwame Despite',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem saepe nostrum vel? Quaerat architecto at modi rem repudiandae voluptatibus quas, assumenda, enim facilis earum hic ducimus! Sed facere id reprehenderit.'
+    name: 'Brian Mitchell',
+    review: "Partnering with Aslam for a product launch was a game-changer. His remarkable ability to translate our product's identity into captivating visuals exceeded our expectations. Aslam is the designer who truly understands your vision."
   },
   {
     avatar: AVRT4,
-    name: 'Nana Ama McBrown',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem saepe nostrum vel? Quaerat architecto at modi rem repudiandae voluptatibus quas, assumenda, enim facilis earum hic ducimus! Sed facere id reprehenderit.'
+    name: 'Fateemah Alli',
+    review: "Collaborating with Aslam on a crucial branding project was a pleasure. His design finesse and dedication to capturing our brand's identity were commendable. The final designs exceeded expectations, leaving a lasting impression."
   },
 ]
 const Testimonials = () => {

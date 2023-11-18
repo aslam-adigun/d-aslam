@@ -1,11 +1,14 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/hajorah.jpg'
-import IMG2 from '../../assets/healthsync.jpg'
-import IMG3 from '../../assets/bytemarket.jpg'
-import IMG4 from '../../assets/reen bank.jpg'
-import IMG5 from '../../assets/onemoni.jpg'
-import IMG6 from '../../assets/famtree.jpg'
+import IMG2 from '../../assets/reen edge.png'
+import IMG3 from '../../assets/healthsync.jpg'
+import IMG4 from '../../assets/bytemarket.jpg'
+import IMG5 from '../../assets/reen bank.jpg'
+import IMG6 from '../../assets/royal services.jpg'
+import IMG7 from '../../assets/techstars.png'
+import IMG8 from '../../assets/onemoni.jpg'
+import IMG9 from '../../assets/famtree.jpg'
 import { MdArrowOutward } from "react-icons/md";
 
 const data = [
@@ -13,49 +16,73 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Hajorah',
-    type: 'UI/UX Design',
+    type: 'Logo Design, UI/UX Design',
     figma: '',
     demo: ''
   },
   {
     id: 2,
     image: IMG2,
-    title: 'HealthSync',
-    type: 'UI/UX Design',
+    title: 'ReenEdge Solutions Limited',
+    type: 'Logo Design, Web Design',
     figma: '',
-    demo: ''
+    demo: 'https://www.behance.net/gallery/182531057/ReenEdge-Solutions-Ltd-Brand-Visual-Design'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Bytemarket',
-    type: 'UI/UX Design',
+    title: 'HealthSync',
+    type: 'Logo Design, UI/UX Design',
     figma: '',
     demo: ''
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Reen Bank',
-    type: 'UI/UX Design',
+    title: 'Bytemarket',
+    type: 'Logo Design, UI/UX Design',
     figma: '',
-    demo: ''
+    demo: 'https://www.behance.net/gallery/177960481/ByteMarket-UI-Presentation'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'OneMoni',
-    type: 'UI/UX Design',
+    title: 'Reen Bank',
+    type: 'Logo Design, UI/UX Design',
     figma: '',
-    demo: ''
+    demo: 'https://www.behance.net/gallery/177853925/ReenBank-UI-Presentation'
   },
   {
     id: 6,
     image: IMG6,
+    title: 'Royal Services',
+    type: 'Logo Design, Visual Identity',
+    figma: '',
+    demo: 'https://www.behance.net/gallery/174024117/Royal-Services'
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'Techstars',
+    type: 'Logo Design, Visual Identity',
+    figma: '',
+    demo: 'https://www.behance.net/gallery/169655981/TechStars-Brand-Identity-Case-Study'
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: 'OneMoni',
+    type: 'Logo Design, UI/UX Design',
+    figma: '',
+    demo: ''
+  },
+  {
+    id: 9,
+    image: IMG9,
     title: 'FamTree',
     type: 'UI/UX Design',
     figma: '',
-    demo: ''
+    demo: 'https://www.behance.net/gallery/164904323/FamTree-(Family-Tree-App)'
   }
 ]
 
