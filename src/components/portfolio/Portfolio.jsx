@@ -6,6 +6,7 @@ import IMG3 from '../../assets/bytemarket.jpg'
 import IMG4 from '../../assets/reen bank.jpg'
 import IMG5 from '../../assets/onemoni.jpg'
 import IMG6 from '../../assets/famtree.jpg'
+import { MdArrowOutward } from "react-icons/md";
 
 const data = [
   {
@@ -66,19 +67,22 @@ const Portfolio = () => {
 
       <div className="container portfolio__container">
         {
-          data.map(({id, image, title, type, figma, demo}) => {
+          data.map(({ id, image, title, type, figma, demo }) => {
             return (
               <article key={id} className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={image} alt={title} />
-          </div>
-          <h3>{title}</h3>
-          <h5>{type}</h5>
-          {/* <div className="portfolio__item-cta">
-          <a href={figma} className='btn' target='_blank' rel="noreferrer">Figma</a>
-          <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
-          </div> */}
-        </article>
+                <div className="portfolio__item-image">
+                  <img src={image} alt={title} />
+                </div>
+                <div className='portfolio__item-cta'>
+                  <div className='portfolio__details'>
+                    <h3>{title}</h3>
+                    <h5>{type}</h5>
+                  </div>
+                  {/* <div className="portfolio__item-cta"> */}
+                  {/* <a href={figma} className='btn' target='_blank' rel="noreferrer">Figma</a> */}
+                  <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer"><MdArrowOutward /></a>
+                </div>
+              </article>
             )
           })
         }
