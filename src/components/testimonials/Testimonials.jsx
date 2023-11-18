@@ -33,7 +33,7 @@ const data = [
   },
   {
     avatar: AVRT4,
-    name: 'Fateemah Alli',
+    name: 'Ololade Akinloye',
     review: "Collaborating with Aslam on a crucial branding project was a pleasure. His design finesse and dedication to capturing our brand's identity were commendable. The final designs exceeded expectations, leaving a lasting impression."
   },
 ]

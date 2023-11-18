@@ -80,6 +80,10 @@ header {
         padding: 1.5rem 1.5rem;
     }
 
+    header {
+        height: 60vh;
+    }
+
     .scroll__down {
         font-size: 1rem;
     }
@@ -88,7 +92,7 @@ header {
 /* ================= MEDIA QUERIES (MEDIUM DEVICES) ================= */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 50vh;
     }
 }
 
